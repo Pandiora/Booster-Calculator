@@ -6,7 +6,10 @@ Booster-Calculator or Steam-Booster-Profit-Calculator (SBPF) calculates the most
 
 
 
+
 >**Notice:** You can´t run this booster-calculator currently without the needed datasets. I will update this respository as soon as I can provide all the needed booster-data. I´m planning to provide as less data as possible so this booster-calculator will be as fast as possible.
+
+
 
 What you need to run the booster-calculator:
 -------------
