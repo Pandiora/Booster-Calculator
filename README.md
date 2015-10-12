@@ -29,8 +29,8 @@ What you need to run the booster-calculator:
 > ```javascript
 > var gem_amounts = $J('#footer + script').text(); var sub1 = gem_amounts.substring(gem_amounts.indexOf('[{')); var sub2 = sub1.substring(0, sub1.indexOf('],')) + "]"; $J('body').append("<textarea style='height: 200px; width: 90%; position: absolute; z-index: 9000; background-color: black; color: green; top:0; overflow:auto;'>"+sub2+"</textarea>");
 > ```
->5. Post your output on [pastebin.com][2] or somewhere else
->6. Comment your URL
+> 5. Post your output on [pastebin.com][2] or somewhere else
+> 6. Comment your URL
 
   [1]: http://steamcommunity.com/tradingcards/boostercreator/
   [2]: http://pastebin.com/
