@@ -1,4 +1,4 @@
-<img src="./src/img/booster-calc.png" alt="Booster-Calculator" width="auto" height="50"> Booster-Calculator
+<img src="./src/img/booster-calc.png" alt="Booster-Calculator" width="auto" height="50"><p line-height='50px'>Booster-Calculator</p>
 ===================
 
 Booster-Calculator or Steam-Booster-Profit-Calculator (SBPF) calculates the most profitable booster depending on the games the user owns. It provides information on how much a booster-pack will cost in gems or the chosen currency. It also provides information how much a single card will cost for selling and buying (lowest price, average price, highest price).
