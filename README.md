@@ -20,6 +20,8 @@ at ```$steamapi_key = 'insertyourapikeyhere';```
 2. Set your login-credentials for your database **db_config.php**
 (to be safe place this file outside of your webfolder and change the ```include_once 'db_config.php';``` in **db_connect.php** so it matches your chosen path)
 
+3. Obviously you need a webserver with php-module and a databse (MySQL, MariaDB, ...)
+
 <br>
 
 > **Help us:** If you want to help, just provide us your dataset of gem-amounts per Booster-Pack. You can easily obtain these informations. It will only take you one minute.
