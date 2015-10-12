@@ -1,4 +1,4 @@
-![Booster-Calculator](./src/img/booster-calc.png =50x50) Booster-Calculator
+![Booster-Calculator](./src/img/booster-calc.png) Booster-Calculator
 ===================
 
 
