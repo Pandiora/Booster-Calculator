@@ -12,7 +12,6 @@ What you need to run the booster-calculator:
 -------------
 
 1. Get your Steam-WebAPI Token [here][3] and insert it into **getBoosterData.php** at 
-
 **$steamapi_key = 'insertyourapikeyhere';**
  
 2. Set your login-credentials for your database **db_config.php**
