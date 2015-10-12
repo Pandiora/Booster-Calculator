@@ -14,7 +14,7 @@ Booster-Calculator or Steam-Booster-Profit-Calculator (SBPF) calculates the most
 What you need to run the booster-calculator:
 -------------
 
-1. Get your Steam-WebAPI Token [here][3] and insert it into **getBoosterData.php** 
+1. Get your Steam-WebAPI Token [here][3] and insert it into **getBoosterData.php** <br>
 at ```$steamapi_key = 'insertyourapikeyhere';```
  
 2. Set your login-credentials for your database **db_config.php**
