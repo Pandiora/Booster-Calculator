@@ -22,7 +22,7 @@ at ```$steamapi_key = 'insertyourapikeyhere';```
 
 <br>
 
-> **Help us:** If you want to help, just provide us your dataset of gem-amounts per Booster-Pack. You can easily obtain these informations. 
+> **Help us:** If you want to help, just provide us your dataset of gem-amounts per Booster-Pack. You can easily obtain these informations. It will only take you one minute.
 
 > **Just follow these steps:**
 > 
