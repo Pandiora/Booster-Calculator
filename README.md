@@ -25,7 +25,7 @@ What you need to run the booster-calculator:
 > 3. Open your browser-console
 > Chrome: <kbd>CTRL+SHIFT+J</kbd> Firefox: <kbd>CTRL+SHIFT+K</kbd>
 > 4. Insert the following code and press enter:
-> ```
+> ```javascript
 > var gem_amounts = $J('#footer + script').text(); var sub1 = gem_amounts.substring(gem_amounts.indexOf('[{')); var sub2 = sub1.substring(0, sub1.indexOf('],')) + "]"; $J('body').append("<textarea style='height: 200px; width: 90%; position: absolute; z-index: 9000; background-color: black; color: green; top:0; overflow:auto;'>"+sub2+"</textarea>");
 > ```
 >5. Post your output on [pastebin.com][2] or somewhere else
