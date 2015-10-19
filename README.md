@@ -40,6 +40,6 @@ at ```$steamapi_key = 'insertyourapikeyhere';```
 > ```
 
   [1]: http://steamcommunity.com/tradingcards/boostercreator/
-  [2]: http://pastebin.com/
+  [2]: http://paste.ee/
   [3]: http://steamcommunity.com/dev/apikey
 
